@@ -1,2 +1,2 @@
 # dummy
-This is adummy repo created to learn git.
+This is a dummy repo created to learn git.
